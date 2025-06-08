@@ -48,8 +48,8 @@ php artisan key:generate
 touch database/database.sqlite
 ```
 ### Then update your .env with the correct database path:
-DB_CONNECTION=sqlite
-DB_DATABASE=database/database.sqlite
+- DB_CONNECTION=sqlite
+- DB_DATABASE=database/database.sqlite
 
 ### 5. Run Database Migrations
 ```bash
@@ -66,5 +66,4 @@ npm run dev
 ```bash
 php artisan serve
 ```
-Then open your browser and visit:
-http://127.0.0.1:8000
+- Then open your browser and visit: http://127.0.0.1:8000
