@@ -11,8 +11,6 @@ This repository showcases a modern authentication setup using Laravel Breeze wit
 - **Tailwind CSS**
 - **SQLite (for easy setup)**
 
----
-
 ## ✨ Features
 
 - ✅ User registration, login, password reset
@@ -21,8 +19,6 @@ This repository showcases a modern authentication setup using Laravel Breeze wit
 - ✅ Tailwind CSS styling
 - ✅ Profile page (optional enhancement)
 - ✅ Clean code and developer-friendly setup
-
----
 
 ## ⚙️ Installation & Setup
 
