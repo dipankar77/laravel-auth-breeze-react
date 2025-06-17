@@ -1,6 +1,6 @@
 # 🔐 Laravel + Breeze + React Authentication Demo
 
-This repository showcases a modern authentication setup using Laravel Breeze with React, Inertia.js, and Tailwind CSS — ideal for full-stack Laravel development.
+This repository showcases a modern authentication setup using Laravel Breeze with React, Inertia.js, and Tailwind CSS.
 
 ## 🚀 Tech Stack
 
