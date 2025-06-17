@@ -33,26 +33,7 @@ cd laravel-auth-breeze-react
 composer install
 ```
 
-### 3. Configure Environment
-```bash
-cp .env.example .env
-php artisan key:generate
-```
-
-### 4. Set Up the Database (SQLite)
-```bash
-touch database/database.sqlite
-```
-### Then update your .env with the correct database path:
-- DB_CONNECTION=sqlite
-- DB_DATABASE=database/database.sqlite
-
-### 5. Run Database Migrations
-```bash
-composer install
-```
-
-### 6. Install JavaScript Dependencies
+### 3. Install JavaScript Dependencies and and Start the Development Server
 ```bash
 npm install
 composer run dev
