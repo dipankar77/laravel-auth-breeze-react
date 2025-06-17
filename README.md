@@ -55,11 +55,7 @@ composer install
 ### 6. Install JavaScript Dependencies
 ```bash
 npm install
-npm run dev
+composer run dev
 ```
 
-### 7. Start the Development Server
-```bash
-php artisan serve
-```
 - Then open your browser and visit: http://127.0.0.1:8000
